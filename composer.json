@@ -1,0 +1,5 @@
+{
+    "require": {
+        "composer create-project laravel/laravel your-project-name --prefer-dist":"5.1.*"
+    }
+}
